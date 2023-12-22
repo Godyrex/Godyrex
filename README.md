@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Oussema Ouakad, a passionate Back-End Web developer on a journey to create meaningful solutions in the digital realm.
 
-<!--
-**Godyrex/Godyrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently learning and growing at Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT. My journey involves translating innovative ideas into efficient, code-driven realities.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- 💻 Java | Spring Boot | JS/TS | Angular
+- 🔒 Spring Security
+- 📊 MongoDB | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Exploring the endless possibilities of web development and contributing to the open-source community. Let's connect, collaborate, and code together!
+
+📫 Reach me at [oussouakad@gmail.com] | [LinkedIn](https://www.linkedin.com/in/ouakadoussema/)
+
+Happy coding! 🚀
