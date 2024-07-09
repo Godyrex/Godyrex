@@ -12,3 +12,4 @@
 📫 Reach me at [oussouakad@gmail.com] | [LinkedIn](https://www.linkedin.com/in/ouakadoussema/)
 
 Happy coding! 🚀
+![](https://hit.yhype.me/github/profile?user_id=81573320)
